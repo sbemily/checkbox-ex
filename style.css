@@ -1,0 +1,10 @@
+        /* Estilo para o contêiner do checkbox */
+        .checkbox-container {
+            display: flex;
+            align-items: center;
+        }
+
+        /* Estilo para o texto ao lado do checkbox */
+        .checkbox-label {
+            margin-left: 8px;
+        }
